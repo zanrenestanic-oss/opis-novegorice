@@ -1,0 +1,5 @@
+1. Razširi ZIP.
+2. Na GitHub naloži VSEBINO mape.
+3. V mapi images zamenjaj vzorčne JPG slike s svojimi.
+4. Imen slik ne spreminjaj.
+5. Uredi index.html in nato vključi GitHub Pages.
